@@ -20,7 +20,7 @@
 
 # gitlab 
 
-## [https://gitlab.com/huezo/dracula-theme](https://gitlab.com/huezo/dracula-theme)
+ [https://gitlab.com/huezo/dracula-theme](https://gitlab.com/huezo/dracula-theme)
 
 
 
@@ -33,9 +33,6 @@
 
 
 
-
-
-# .
-
+# ....
 
 [Based on Dracula Telegram Desktop Theme](https://draculatheme.com/telegram/)
