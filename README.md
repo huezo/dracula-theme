@@ -4,8 +4,7 @@
 
 
 
-[demo]:https://gitlab.com/huezo/dracula-theme/raw/master/dracula-theme.png
-
+[demo]:https://raw.githubusercontent.com/huezo/dracula-theme/master/dracula-theme.png
 ![demo][demo]
 
 
@@ -13,15 +12,15 @@
 
 
 
-[demo1]:https://gitlab.com/huezo/dracula-theme/raw/master/dracula-theme.png
+[demo1]:https://raw.githubusercontent.com/huezo/dracula-theme/master/dracula-theme1.png
 ![demo1][demo1]
 
 
 
 
+# gitlab 
 
-
-
+## [https://gitlab.com/huezo/dracula-theme](https://gitlab.com/huezo/dracula-theme)
 
 
 
