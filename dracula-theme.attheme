@@ -10,6 +10,8 @@
 
 
 
+
+
 avatar_backgroundViolet=-4353031
 dialogRadioBackground=-11470213
 chat_replyPanelClose=-10325340
@@ -162,6 +164,8 @@ avatar_actionBarSelectorCyan=-12302502
 windowBackgroundWhiteGrayText4=-10325340
 files_folderIconBackground=-10325340
 profile_verifiedBackground=-7607811
+name=0
+avatar_backgroundSaved=-12485727
 chat_fieldOverlayText=-7607811
 dialogTextLink=-7607811
 avatar_nameInMessageViolet=-4353031
@@ -277,6 +281,7 @@ chats_menuCloud=-14210506
 windowBackgroundWhiteBlueText2=-7607811
 chat_emojiPanelIconSelected=-11470213
 radioBackgroundChecked=-7607811
+version=4
 chats_menuItemIcon=-10325340
 featuredStickers_addButton=-10325340
 chat_inTimeText=-863245571
@@ -496,7 +501,7 @@ windowBackgroundWhiteInputFieldActivated=-7607811
 chat_replyPanelName=-7607811
 chat_reportSpam=-460558
 avatar_actionBarIconRed=-10325340
-avatar_backgroundPink=-14144970
+avatar_backgroundPink=-9109387
 inappPlayerTitle=-460558
 chat_outViaBotNameText=-7607811
 featuredStickers_unread=-7607811
@@ -520,6 +525,8 @@ chat_botSwitchToInlineText=-460558
 
 
 
+
+
 #
 # By: @huezohuezo1990
 # http://t.me/huezohuezo1990
@@ -527,3 +534,8 @@ chat_botSwitchToInlineText=-460558
 #
 # GPLv3+
 #
+
+
+
+
+
